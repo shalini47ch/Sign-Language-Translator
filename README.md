@@ -10,7 +10,7 @@
  
 • Existing systems worked on American Sign language ,this project focused on the Indian Sign Language gestures.
 
-• Gloves were used for image capturing through which the gestures were recognized, followed by conversion them to sentences.
+• Gloves were used for image capturing through which the gestures were recognized, followed by converting them to sentences.
 
 • CNN was used to train the model which resulted in an accuracy of 94%.
 
