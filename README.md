@@ -3,6 +3,9 @@
 <img width="295" alt="image" src="https://user-images.githubusercontent.com/60210475/152521069-68b42841-db40-47e0-a216-174807706c90.png">
 <img width="357" alt="image" src="https://user-images.githubusercontent.com/60210475/152521195-8de9e7bf-da83-4a39-a8bb-c71d7ccb5bb3.png">
 
+<img width="427" alt="Screenshot 2022-03-30 230014" src="https://user-images.githubusercontent.com/60210475/160895994-97e35d52-5f81-4830-8d49-259b53abe134.png">
+
+
  A deep learning project which focused to solve the problem of the people with hearing and speech disabilities.
  
 • Existing systems worked on American Sign language ,this project focused on the Indian Sign Language gestures.
