@@ -18,4 +18,6 @@
 
 • The sentences formed were converted to speech using GTTS (Google Text to Speech)
 
+<img width="267" alt="image" src="https://github.com/shalini47ch/Sign-Language-Translator/assets/60210475/9e925822-1cee-4ba7-9384-0fd88be6c275">
+<img width="268" alt="image" src="https://github.com/shalini47ch/Sign-Language-Translator/assets/60210475/7ca98329-e27b-4125-acdc-1d37603f9848">
 
