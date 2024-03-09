@@ -6,6 +6,10 @@ Sign Language To Speech Translator
 <img width="427" alt="Screenshot 2022-03-30 230014" src="https://user-images.githubusercontent.com/60210475/160895994-97e35d52-5f81-4830-8d49-259b53abe134.png">
 
 
+![image](https://github.com/shalini47ch/Sign-Language-Translator/assets/60210475/c9e64e1a-8ec2-402f-b82c-0f7adaba173c)
+
+
+
  A deep learning project which focused to solve the problem of the people with hearing and speech disabilities.
  
 • Existing systems worked on American Sign language ,this project focused on the Indian Sign Language gestures.
