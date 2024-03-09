@@ -8,6 +8,9 @@ Sign Language To Speech Translator
 
 ![image](https://github.com/shalini47ch/Sign-Language-Translator/assets/60210475/c9e64e1a-8ec2-402f-b82c-0f7adaba173c)
 
+<img width="478" alt="image" src="https://github.com/shalini47ch/Sign-Language-Translator/assets/60210475/33156aa2-9154-4f62-8966-4a54ca903a27">
+
+
 
 
  A deep learning project which focused to solve the problem of the people with hearing and speech disabilities.
